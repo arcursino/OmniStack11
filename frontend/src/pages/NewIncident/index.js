@@ -29,7 +29,7 @@ export default function NewIncident() {
         try {
             await api.post('incidents', data, {
                 headers: {
-                    Autorization: ongId,
+                    Authorization: ongId,
                 }
             })
 
@@ -59,18 +59,18 @@ export default function NewIncident() {
                 <input 
                     placeholder="Titulo do caso" 
                     value={title}
-                    onChante={e => setTitle(e.target.value)}
+                    onChange={e => setTitle(e.target.value)}
                 />
 
                 <textarea 
                     placeholder=" Descricao" 
                     value={description}
-                    onChante={e => setDescription(e.target.value)}
+                    onChange={e => setDescription(e.target.value)}
                 />
                 <input 
                     placeholder="Valor em Reais" 
                     value={value}
-                    onChante={e => setValue(e.target.value)}
+                    onChange={e => setValue(e.target.value)}
                 />
                  
                 <button className="button" type="submit">Cadastrar</button>
