@@ -18,7 +18,6 @@ A 11ª edição da Semana OmniStack, ocorrida entre 23/03 e 27/03, trouxe como p
 
 Em uma semana foi desenvolvida uma aplicação do zero, dominando o backend, frontend e o mobile com uma única linguagem e uma única biblioteca de interfaces.
 
-[Layout](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1) da aplicação no <img src="imgs/figma.png" alt="figma" height="20"> Figma.
 
 ## Para rodar a aplicação
 
@@ -43,18 +42,3 @@ Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, le
     <img alt="" title="" src="imgs/print8.png">
     <img alt="" title="" src="imgs/print-insomnia.png">
 </p>
-
-Veja também esse [vídeo](https://youtu.be/UygqW2eBJJA) com a demonstração das versões web e mobile rodando localmente.
-
----
-
-**&copy; <img src="imgs/rocketseat.svg" alt="rocketseat" height="20"> [Rocketseat](https://rocketseat.com.br/)**
-
-**Instrutor: [Diego Fernandes](https://github.com/diego3g) | CTO Rocketseat**
-
-## Licença
-[MIT](https://github.com/christyanbrayan/be-the-hero/blob/master/LICENSE)
-
----
-
-<h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/christyanbrayan" target="_blank">christyanbrayan</a> </h4>
